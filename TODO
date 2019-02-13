@@ -1,0 +1,8 @@
+Todo:
+    Done:
+        .gitignore:
+            ✔ regroupement des fichiers par dossier @done(19-02-13 10:30)
+        workspace:
+            ✔ création d'un workspace @done(19-02-13 10:32)
+        ✔ création d'un dossier module pytcom @done(19-02-13 10:33)
+    ☐ bug de connexion
